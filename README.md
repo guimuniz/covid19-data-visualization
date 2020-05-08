@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="covid" title="logo" src=".github/world_map.png" width="250px"
+    <img alt="covid" title="logo" src=".github/world_map.png" width="500px"
     style="background-color:black;"/>
 </h1>
 
